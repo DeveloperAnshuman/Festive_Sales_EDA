@@ -52,18 +52,21 @@ The dataset includes transaction details from a festive sale period. Key columns
 
 ## 📁 Project Structure
 
-```text
+
 
 ├── Festive_Sales_Analysis.ipynb  # Main Analysis Notebook
 
 ├── Festive_Sales_Data.csv        # Dataset (if applicable)
 
-└── README.md                     # Documentation
+└── README.md                     # Documentation.
+---
 
-## 💡 Conclusion
+## Conclusion
 The analysis suggests that marketing campaigns should be heavily skewed toward female customers in the 26-35 age bracket living in Tier-1 cities. Focusing on high-demand categories like Food and Electronics during the peak festive week will likely yield the highest ROI.
+---
 
 ## 👤 Author
+
 **Anshuman**
-* GitHub: [@DeveloperAnshuman](https://github.com/DeveloperAnshuman)
-* LinkedIn: [Your Profile Link Here]
+* **GitHub:** [@DeveloperAnshuman](https://github.com/DeveloperAnshuman)
+* **LinkedIn:** [Your Profile Link Here]
