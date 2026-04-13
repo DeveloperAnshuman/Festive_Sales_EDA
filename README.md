@@ -62,11 +62,11 @@ The dataset includes transaction details from a festive sale period. Key columns
 ---
 
 ## Conclusion
-*The analysis suggests that marketing campaigns should be heavily skewed toward female customers in the 26-35 age bracket living in Tier-1 cities. Focusing on high-demand categories like Food and Electronics during the peak festive week will likely yield the highest ROI.*
+*  The analysis suggests that marketing campaigns should be heavily skewed toward female customers in the 26-35 age bracket living in Tier-1 cities. Focusing on high-demand categories like Food and Electronics during the peak festive week will likely yield the highest ROI.*
 ---
 
 ## 👤 Author
 
 **Anshuman**
 * **GitHub:** [@DeveloperAnshuman](https://github.com/DeveloperAnshuman)
-* **LinkedIn:** [Your Profile Link Here]
+
