@@ -50,6 +50,16 @@ The dataset includes transaction details from a festive sale period. Key columns
 * **Occupation:** Professionals in IT, Healthcare, and Aviation sectors show the highest purchasing power.
 * **Product:** Food, Clothing, and Electronics are the most sold categories.
 
+## 📁 Project Structure
+
+```text
+
+├── Festive_Sales_Analysis.ipynb  # Main Analysis Notebook
+
+├── Festive_Sales_Data.csv        # Dataset (if applicable)
+
+└── README.md                     # Documentation
+
 ## 💡 Conclusion
 The analysis suggests that marketing campaigns should be heavily skewed toward female customers in the 26-35 age bracket living in Tier-1 cities. Focusing on high-demand categories like Food and Electronics during the peak festive week will likely yield the highest ROI.
 
